@@ -1,8 +1,8 @@
 # Changes here will be overwritten by Copier
-_commit: '0.1'
+_commit: '0.2'
 _src_path: https://github.com/sandeeps311/copier_minimal_example.git
-author_email: null
-author_fullname: null
+author_email: ss
+author_fullname: sandeep
 author_username: null
 copyright_date: '2021'
 copyright_holder: None
@@ -16,5 +16,8 @@ python_package_import_name: test
 repository_name: test
 repository_namespace: None
 repository_provider: github.com
+subprojects:
+-   path: project
+    repo: https://github.com/sandeeps311/copier_minimal_example/tree/main/project
 use_precommit: true
 
