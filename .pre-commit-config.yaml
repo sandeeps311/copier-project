@@ -26,3 +26,10 @@ repos:
         pass_filenames: false
         language: system
         types: [python]
+-     repo: local
+      hooks:
+          - id: forbidden-files
+            name: forbidden files
+            entry: found Copier update rejection files; review them and remove them
+            language: fail
+            files: "\\.rej$"

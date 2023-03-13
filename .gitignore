@@ -14,4 +14,4 @@ pdm.lock
 .pdm.toml
 .venv/
 .idea
-
+*.rej

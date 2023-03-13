@@ -20,4 +20,3 @@ subprojects:
 -   path: project
     repo: https://github.com/sandeeps311/copier_minimal_example/tree/main/project
 use_precommit: true
-
