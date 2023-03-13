@@ -1,0 +1,5 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -16 +16,3 @@ __pypackages__/
+ .venv/
++.idea
++venv
