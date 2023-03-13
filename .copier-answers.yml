@@ -2,13 +2,13 @@
 _commit: '0.2'
 _src_path: https://github.com/sandeeps311/copier_minimal_example.git
 author_email: ss
-author_fullname: sandeep
+author_fullname: sandeeptest
 author_username: null
 copyright_date: '2022'
 copyright_holder: None
 copyright_holder_email: None
-copyright_license: ISC License
-project_description: testdesc
+copyright_license: GNU Lesser General Public License v3.0
+project_description: testdesc1
 project_name: test
 python_package_command_line_name: test
 python_package_distribution_name: test

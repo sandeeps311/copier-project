@@ -1,6 +1,6 @@
 """test package.
 
-testdesc
+testdesc1
 """
 
 from __future__ import annotations

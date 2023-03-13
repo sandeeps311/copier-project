@@ -4,9 +4,9 @@ build-backend = "pdm.pep517.api"
 
 [project]
 name = "test"
-description = "testdesc"
-authors = [{name = "None", email = "None"}]
-license = "ISC"
+description = "testdesc1"
+authors = [{name = "sandeeptest", email = "ss"}]
+license = "LGPL-3.0"
 readme = "README.md"
 requires-python = ">=3.7"
 keywords = []
