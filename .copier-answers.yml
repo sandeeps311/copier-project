@@ -4,7 +4,7 @@ _src_path: https://github.com/sandeeps311/copier_minimal_example.git
 author_email: ss
 author_fullname: sandeep
 author_username: null
-copyright_date: '2021'
+copyright_date: '2022'
 copyright_holder: None
 copyright_holder_email: None
 copyright_license: ISC License
@@ -20,3 +20,4 @@ subprojects:
 -   path: project
     repo: https://github.com/sandeeps311/copier_minimal_example/tree/main/project
 use_precommit: true
+
