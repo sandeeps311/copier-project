@@ -1,4 +1,4 @@
-# test
+# Custom Copier Template
 
 [![ci](https://github.com/None/test/workflows/ci/badge.svg)](https://github.com/None/test/actions?query=workflow%3Aci)
 [![documentation](https://img.shields.io/badge/docs-mkdocs%20material-blue.svg?style=flat)](https://None.github.io/test/)
